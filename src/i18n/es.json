@@ -1,0 +1,42 @@
+{
+    "welcome_message": "¡Bienvenido a la aplicación del clima!",
+    "app_title": "Aplicación del Clima",
+    "legal_advice":"© 2024 Mi Empresa. Todos los derechos reservados.",
+    "contact_form": "Formulario de contacto.",
+    "name":"Nombre:",
+    "birth_date":"Fecha de nacimiento:",
+    "city":"Ciudad:",
+    "email":"Correo electrónico:",
+    "phone":"Número de teléfono:",
+    "submit":"Enviar",
+    "all_fields_required": "Rellene todos los campos.",
+    "invalid_email_format": "Formato de correo electrónico inválido.",
+    "invalid_phone_format": "El número de teléfono sólo debe contener números.",
+    "form_success": "Formulario enviado.",
+    "search_city":"Busca una ciudad...",
+    "load_more":"Cargar más",
+
+    "clear sky": "Cielo despejado",
+    "few clouds": "Pocas nubes",
+    "scattered clouds": "Nubes dispersas",
+    "broken clouds": "Nubes rotas",
+    "shower rain": "Lluvia de chubascos",
+    "rain": "Lluvia",
+    "thunderstorm": "Tormenta",
+    "snow": "Nieve",
+    "mist": "Niebla",
+    "overcast clouds":"Nubes cubiertas",
+
+    "temperature": "Temperatura",
+    "feels_like": "Sensación Térmica",
+    "temp_min": "Temperatura Mínima",
+    "temp_max": "Temperatura Máxima",
+    "weather_description": "Descripción del Clima",
+    "wind_speed": "Velocidad del Viento",
+    "wind_direction": "Dirección del Viento",
+
+    "preserve_card_count": "Conservar el número de tarjetas entre búsquedas",
+    "load_3_cards": "Cargar inicialmente 3 tarjetas por búsqueda",
+    "location_not_loaded_message": "No se pudo cargar tu ubicación. Aún así, puedes buscar información meteorológica."
+  }
+  

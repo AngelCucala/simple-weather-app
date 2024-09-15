@@ -1,0 +1,42 @@
+{
+    "welcome_message": "Welcome to the weather app!",
+    "app_title": "Weather App",
+    "legal_advice":"© 2024 My Company. All rights reserved.",
+    "contact_form": "Contact form.",
+    "name":"Name:",
+    "birth_date":"Birth date:",
+    "city":"City:",
+    "email":"Email:",
+    "phone":"Phone number:",
+    "submit":"Submit",
+    "all_fields_required": "All fields are required.",
+    "invalid_email_format": "Invalid email format.",
+    "invalid_phone_format": "Phone number should contain only numbers.",
+    "form_success": "Form submitted successfully.",
+    "search_city":"Search for a city...",
+    "load_more":"Load more",
+
+    "clear sky": "Clear sky",
+    "few clouds": "Few clouds",
+    "scattered clouds": "Scattered clouds",
+    "broken clouds": "Broken clouds",
+    "shower rain": "Shower rain",
+    "rain": "Rain",
+    "thunderstorm": "Thunderstorm",
+    "snow": "Snow",
+    "mist": "Mist",
+    "overcast clouds":"Overcast clouds",
+
+    "temperature": "Temperature",
+    "feels_like": "Feels like",
+    "temp_min": "Min Temperature",
+    "temp_max": "Max Temperature",
+    "weather_description": "Weather Description",
+    "wind_speed": "Wind Speed",
+    "wind_direction": "Wind Direction",
+
+    "preserve_card_count": "Preserve card count between searches",
+    "load_3_cards": "Load 3 cards initially per search",
+    "location_not_loaded_message": "Your location could not be loaded. You can still search for weather information."
+  }
+  

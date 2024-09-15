@@ -1,0 +1,41 @@
+$dark-background: #343a40;
+$light-background: #f8f9fa;
+$highlight-color: #007bff;
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: $dark-background;
+  border-bottom: 1px solid #dee2e6;
+
+  &__title {
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+  }
+
+  &__flags {
+    display: flex;
+    gap: 10px;
+
+    img {
+      width: 24px;
+      height: 24px;
+      cursor: pointer;
+      transition: transform 0.2s ease, filter 0.2s ease;
+
+      &:hover {
+        transform: scale(1.2) rotate(-5deg);
+        filter: brightness(1.2);
+      }
+
+      &.selected {
+        border: 2px solid $highlight-color;
+        border-radius: 50%;
+        transform: scale(1.2);
+      }
+    }
+  }
+}

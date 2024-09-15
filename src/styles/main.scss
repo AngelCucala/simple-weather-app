@@ -1,0 +1,17 @@
+$background-start: #ff7e5f;
+$background-end: #feb47b;
+
+body {
+  margin: 0;
+  height: 100vh;
+  background: linear-gradient(to bottom right, $background-start, $background-end);
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
